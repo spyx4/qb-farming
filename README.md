@@ -66,6 +66,7 @@ Make sure you have the items in ```qb-core/shared/items.lua```
 	apple_juice                  = { name = 'apple_juice', label = 'Apple Juice', weight = 200, type = 'item', image = 'apple_juice.png', unique = false, useable = true, shouldClose = true, description = 'Apple Juice' },
     lemon_juice                  = { name = 'lemon_juice', label = 'Lemon Juice', weight = 200, type = 'item', image = 'lemon_juice.png', unique = false, useable = true, shouldClose = true, description = 'Lemon Juice' },
 ```
+*Add the corresponding images (PNG) to ```qb-inventory/html/images```
 3-Configure locations, prices, and items in config.lua.
 
 📝 Notes
