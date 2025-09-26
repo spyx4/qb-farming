@@ -80,3 +80,14 @@ Make sure you have the items in ```qb-core/shared/items.lua```
 
 -Works with default QBCore inventory and money system.
 
+<img width="218" height="109" alt="image" src="https://github.com/user-attachments/assets/c9f2faf5-aaff-49ad-8f84-fe9b5b3e6a92" />
+
+<img width="393" height="374" alt="image" src="https://github.com/user-attachments/assets/8de1c947-6b84-463d-bc05-6becb47a0c7a" />
+
+<img width="416" height="185" alt="image" src="https://github.com/user-attachments/assets/5cce3ba9-be1c-4a47-b64d-3d838fc89e3e" />
+
+<img width="654" height="426" alt="image" src="https://github.com/user-attachments/assets/37e52b98-5fda-4459-8ffc-7fa420c8050b" />
+
+<img width="434" height="221" alt="image" src="https://github.com/user-attachments/assets/4cdfbac9-66b0-4fe7-a88b-36b4e9d6fd66" />
+
+<img width="496" height="278" alt="image" src="https://github.com/user-attachments/assets/09089344-c5a7-41b4-96c4-92282e5ba1b0" />
