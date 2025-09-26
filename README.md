@@ -58,6 +58,14 @@ Players can harvest crops, craft juices, and sell their products to an NPC for c
 ```ensure qb-core
 ensure farming-script
 ```
+Make sure you have the items in ```qb-core/shared/items.lua```
+```	lemon                  = { name = 'lemon', label = 'lemon', weight = 100, type = 'item', image = 'lemon.png', unique = false, useable = false, shouldClose = true, description = 'Fresh lemon, perfect for juice!' },
+    potato                  = { name = 'potato', label = 'potato', weight = 100, type = 'item', image = 'potato.png', unique = false, useable = false, shouldClose = true, description = 'A raw potato from the farm.' },
+	carrot                  = { name = 'carrot', label = 'carrot', weight = 100, type = 'item', image = 'carrot.png', unique = false, useable = false, shouldClose = true, description = 'Fresh carrot, healthy and crunchy!' },
+    apple                  = { name = 'apple', label = 'apple', weight = 100, type = 'item', image = 'apple.png', unique = false, useable = false, shouldClose = true, description = 'A sweet red apple' },
+	apple_juice                  = { name = 'apple_juice', label = 'Apple Juice', weight = 200, type = 'item', image = 'apple_juice.png', unique = false, useable = true, shouldClose = true, description = 'Apple Juice' },
+    lemon_juice                  = { name = 'lemon_juice', label = 'Lemon Juice', weight = 200, type = 'item', image = 'lemon_juice.png', unique = false, useable = true, shouldClose = true, description = 'Lemon Juice' },
+```
 3-Configure locations, prices, and items in config.lua.
 
 📝 Notes
